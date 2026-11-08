@@ -8,9 +8,9 @@ An institutional-grade, open-source archive of cleaned, standardized, and valida
 - **Symbol:** `TWTUSDT`
 - **Market:** Binance Spot
 - **Timeframe:** 1 Minute (`1m`)
-- **Total Months:** `70` months
-- **Total Candles:** `3,018,127` 1-minute candles
-- **Historical Range:** `2021-01-27 08:00:00` to `2026-10-24 23:59:00` (UTC)
+- **Total Months:** `71` months
+- **Total Candles:** `3,038,287` 1-minute candles
+- **Historical Range:** `2021-01-27 08:00:00` to `2026-11-07 23:59:00` (UTC)
 - **Schema:** `timestamp, datetime_utc, open, high, low, close, volume, quote_volume, trade_count, taker_buy_volume, taker_buy_quote_volume`
 
 ---
